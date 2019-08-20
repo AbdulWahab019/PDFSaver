@@ -1,7 +1,6 @@
 package com.example.pdfsaver;
 
 import android.os.Environment;
-import android.util.Log;
 
 import com.itextpdf.text.BaseColor;
 import com.itextpdf.text.Chunk;
